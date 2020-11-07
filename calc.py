@@ -17,3 +17,4 @@ def divide(x,y):
 def square(x,y):
     pass
 
+// this is kalam faregh
