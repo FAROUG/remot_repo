@@ -1,4 +1,3 @@
-// another
 def add(x,y):
     pass
 
